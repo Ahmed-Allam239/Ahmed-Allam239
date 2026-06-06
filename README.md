@@ -57,12 +57,6 @@
 </div>
 
 <br>
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Allam239&layout=compact&theme=dracula&hide_border=true&title_color=0077B5&cache_seconds=1800" height="180" alt="Top Languages" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Allam239&show_icons=true&theme=dracula&hide_border=true&hide_rank=true&title_color=0077B5&cache_seconds=1800" height="180" alt="GitHub Stats" />
-
-  <br> -->
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Allam239&radius=16&theme=dracula&area=true" height="300" alt="activity-graph graph" />
